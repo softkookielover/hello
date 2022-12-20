@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+    color:bisque;
+}
+.name_of_objects{
+    color:gold;
+}
+
+#camera{
+    border-color: black;
+    border-width: 2px;
+    width: 350px;
+    height: 300px;
+    border-style: ridge;
+}
